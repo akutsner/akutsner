@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Alec Kutsner
 
-<!--
-**akutsner/akutsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior Computer Science major at Ithaca College graduating in [month year].
+I'm looking for [new-grad / entry-level / internship] roles in systems or software engineering where I can [what you want to do, e.g., build reliable backend and low-level software].
+[One sentence about a strength or what draws you to systems work.]
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, [add any others from your resume: C/C++, Java, SQL...]
+- **Libraries & Frameworks:** Flask, PyTorch, Pygame, PyQt5, PIL, [MediaPipe/OpenCV if used in HandTrackingWordle]
+- **Tools:** Git, GitHub, Jupyter, PyCharm, draw.io (UML), unit testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [HandTrackingWordle](https://github.com/akutsner/HandTrackingWordle): [one line on what it does]
+- [NeuroPedal](https://github.com/Quinnsmitth/NeuroPedal): ResNet34 model that predicts guitar pedal settings from audio recordings
+- [PokemonGame](https://github.com/akutsner/PokemonGame): Flask app plus Pygame battle game with a tested, class-based design
+- [TurtleMaze](https://github.com/akutsner/TurtleMaze): random maze generator using a modified depth-first search
+
+## Currently Learning
+- [e.g., C, operating systems concepts, TypeScript]
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/alec-kutsner-64001a397)
