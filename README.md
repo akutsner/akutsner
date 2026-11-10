@@ -1,64 +1,186 @@
-# Hi, I'm Alec Kutsner 👋
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alec%20Kutsner&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Software%20Engineering%20%C2%B7%20CS%20%40%20Ithaca%20College&descAlignY=60&descSize=18" alt="Alec Kutsner banner" />
+</p>
 
-**Senior CS @ Ithaca College (May 2027)** · Systems & Software Engineering · Ithaca, NY
+<p align="center">
+  <a href="https://github.com/akutsner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C9BD6&center=true&vCenter=true&width=620&lines=Senior+CS+major+%40+Ithaca+College+%F0%9F%8E%93;Building+fast%2C+dependable+software+%E2%9A%99%EF%B8%8F;Computer+vision+%C2%B7+ML+%C2%B7+systems;Open+to+new-grad+%26+internship+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-I like understanding how the pieces of a system fit together, and building software that's fast, dependable, and easy to test. My projects lean toward **real-time input**, **data pipelines**, and **clean, class-based design** — from computer-vision interfaces running off a webcam to a CNN that listens to guitar audio.
-
-🔎 **Open to:** new-grad / entry-level and internship roles in systems or software engineering.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alec_Kutsner-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alec-kutsner-64001a397)
-
----
-
-## 🛠 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🎸 **[NeuroPedal](https://github.com/Quinnsmitth/NeuroPedal)** | Predicts guitar-pedal **drive** and **tone** settings from raw audio. Turns recordings into mel spectrograms and runs a single-channel **ResNet34** regression model, with a PyQt5 GUI for inference. *I built the ML pipeline: preprocessing, model adaptation, training and inference.* | PyTorch · librosa · PyQt5 |
-| ✋ **[HandTrackingWordle](https://github.com/akutsner/HandTrackingWordle)** | Wordle you play **in the air**. Tracks 21 hand landmarks live from a webcam; point to type, make a fist to clear. Also includes a virtual keyboard and a gesture-driven shape-manipulation demo. | OpenCV · MediaPipe |
-| ⚔️ **[PokemonGame](https://github.com/akutsner/PokemonGame)** | A Flask app and Pygame battle game built on live **PokéAPI** data. Uses an object-oriented design (Pokémon / Team / Fight classes), a UML model and `unittest` coverage. | Flask · Pygame · PIL · REST |
-| 🌀 **[TurtleMaze](https://github.com/akutsner/TurtleMaze)** | Random maze generator using a modified **depth-first search**, with a built-in solver and a "strange" mode for chaotic paths. | Python · turtle |
-| 🏛 **[RomanNumeral](https://github.com/akutsner/RomanNumeral)** | Two-way Roman numeral converter that validates subtractive pairs and rejects malformed input. Tested. | Python |
+<p align="center">
+  <a href="https://www.linkedin.com/in/alec-kutsner-64001a397"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Graduating-May_2027-2c5364?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Graduating May 2027"/>
+  <img src="https://img.shields.io/badge/Location-Ithaca,_NY-203a43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ithaca, NY"/>
+  <img src="https://komarev.com/ghpvc/?username=akutsner&style=for-the-badge&color=0f2027&label=Profile+views" alt="Profile views"/>
+</p>
 
 ---
 
-## 💻 Tech
+## 👨‍💻 About me
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+```python
+class Alec:
+    def __init__(self):
+        self.school    = "Ithaca College"
+        self.major     = "Computer Science"
+        self.graduates = "May 2027"
+        self.location  = "Ithaca, NY"
+        self.focus     = ["Systems Engineering", "Software Engineering"]
+        self.into      = ["real-time input", "data pipelines", "clean, testable design"]
+        self.seeking   = "New-grad / entry-level & internship roles"
 
-**Frameworks & Libraries**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3B7A2A?style=flat&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)
+    def philosophy(self):
+        return "Understand how the pieces fit together, then make them fast and dependable."
+```
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+- 🔭 Building projects at the intersection of **computer vision, machine learning and interactive software**
+- 🧠 Drawn to systems work: I like knowing what's happening *under* the abstraction
+- 🧪 I care about **testable, class-based design**: most of my projects ship with tests and a UML or architecture diagram
+- 🤝 Comfortable on team projects: NeuroPedal was a collaboration where I owned the full ML pipeline
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Featured projects
 
-- **Computer networking**: how packets actually get from A to B
-- **Relational databases & SQL**: schema design and query performance
-- **TypeScript**
-- **LLMs**: how they work under the hood and how to build with them
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎸 <a href="https://github.com/Quinnsmitth/NeuroPedal">NeuroPedal</a></h3>
+      <p><b>Deep learning for guitar effects.</b> Listens to a guitar recording and predicts the pedal's <b>drive</b> and <b>tone</b> settings that produced it.</p>
+      <ul>
+        <li>Audio → mel spectrogram → single-channel <b>ResNet34</b> regression</li>
+        <li>Smooth L1 loss, Adam with LR scheduling</li>
+        <li>PyQt5 GUI for running predictions</li>
+        <li><i>My role:</i> preprocessing, model adaptation, training & inference</li>
+      </ul>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/librosa-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✋ <a href="https://github.com/akutsner/HandTrackingWordle">HandTrackingWordle</a></h3>
+      <p><b>Wordle you play in the air.</b> A webcam tracks your hand in real time; your index finger becomes the cursor on an on-screen keyboard.</p>
+      <ul>
+        <li>Tracks <b>21 hand landmarks</b> per frame with MediaPipe</li>
+        <li>Gesture rules: ☝️ point to type, ✊ fist to clear</li>
+        <li>Frame-based debouncing for reliable key presses</li>
+        <li>Built in steps: shape demo → virtual keyboard → full game</li>
+      </ul>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ <a href="https://github.com/akutsner/PokemonGame">PokemonGame</a></h3>
+      <p><b>Flask web app and Pygame battle game</b> powered by live PokéAPI data.</p>
+      <ul>
+        <li>REST calls to PokéAPI for stats, types, species and items</li>
+        <li>Object-oriented core: <code>Pokemon</code>, <code>PokemonTeam</code>, <code>Fight</code>, <code>Game</code></li>
+        <li>Designed with a UML diagram first</li>
+        <li><code>unittest</code> suites with JSON fixtures that stand in for API calls</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pygame-3B7A2A?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌀 <a href="https://github.com/akutsner/TurtleMaze">TurtleMaze</a></h3>
+      <p><b>Maze generator and solver</b> drawn live with turtle graphics.</p>
+      <ul>
+        <li>Modified <b>depth-first search</b> with backtracking</li>
+        <li>Makes "perfect" mazes: exactly one path between any two cells</li>
+        <li>Solve mode draws the route from start to finish</li>
+        <li>"Strange" mode for chaotic, winding corridors</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Algorithms-DFS-8A2BE2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>➕ More projects</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| 🏛 [RomanNumeral](https://github.com/akutsner/RomanNumeral) | Two-way Roman numeral ↔ integer converter. Checks subtractive pairs and rejects malformed input, with a test script. |
+
+</details>
+
+---
+
+## 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,mysql&perline=7" alt="Languages"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,flask,qt&perline=7" alt="Frameworks"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm&perline=7" alt="Tools"/>
+</p>
+
+| Category | Skills |
+|---|---|
+| **Languages** | Python · Java · C · JavaScript · SQL · React Native · JSON |
+| **ML / Vision** | PyTorch · torchvision · librosa · MediaPipe · OpenCV · NumPy |
+| **App / Game** | Flask · Pygame · PyQt5 · PIL |
+| **Practices** | Unit testing · OOP design · UML (draw.io) · REST APIs · Git workflows |
+| **Tools** | Git · GitHub · Linux · Jupyter · VS Code · PyCharm · QGIS |
+
+---
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akutsner&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akutsner&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akutsner&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akutsner&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
+</p>
+
+---
+
+## 🌱 Currently learning
+
+| Topic | Why |
+|---|---|
+| 🌐 **Computer networking** | How packets actually get from A to B, and what breaks along the way |
+| 🗄 **Relational databases & SQL** | Schema design, indexing and query performance |
+| 🟦 **TypeScript** | Type-safe front-end and tooling work |
+| 🤖 **LLMs** | How they work under the hood and how to build reliable tools on top of them |
+
+---
+
+## 🎯 What I'm looking for
+
+I'm looking for **new-grad, entry-level or internship roles** in **systems or software engineering**, especially teams that build performance-sensitive, dependable software. I'm happy to dig into unfamiliar codebases, debug the hard stuff and write the tests that keep it fixed.
 
 ---
 
 ## 📫 Let's connect
 
-I'm always happy to talk systems, ML side projects, or opportunities. The best way to reach me is **[LinkedIn](https://www.linkedin.com/in/alec-kutsner-64001a397)**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alec-kutsner-64001a397"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/akutsner"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<!-- The snake image appears once .github/workflows/snake.yml has run once (Actions tab → "Generate contribution snake" → Run workflow) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akutsner/akutsner/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
+</p>
