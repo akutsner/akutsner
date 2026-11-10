@@ -135,18 +135,13 @@ class Alec:
 
 ## GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akutsner&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akutsner&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akutsner&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akutsner&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
-</p>
+
 
 ---
 
