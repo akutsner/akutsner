@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/akutsner">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C9BD6&center=true&vCenter=true&width=620&lines=Senior+CS+major+%40+Ithaca+College+%F0%9F%8E%93;Building+fast%2C+dependable+software+%E2%9A%99%EF%B8%8F;Computer+vision+%C2%B7+ML+%C2%B7+systems;Open+to+new-grad+%26+internship+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C9BD6&center=true&vCenter=true&width=620&lines=Senior+CS+major+%40+Ithaca+College;Building+fast%2C+dependable+software;Computer+vision+%C2%B7+ML+%C2%B7+systems;Open+to+new-grad+%26+internship+roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 ```python
 class Alec:
@@ -35,19 +35,19 @@ class Alec:
         return "Understand how the pieces fit together, then make them fast and dependable."
 ```
 
-- 🔭 Building projects at the intersection of **computer vision, machine learning and interactive software**
-- 🧠 Drawn to systems work: I like knowing what's happening *under* the abstraction
-- 🧪 I care about **testable, class-based design**: most of my projects ship with tests and a UML or architecture diagram
-- 🤝 Comfortable on team projects: NeuroPedal was a collaboration where I owned the full ML pipeline
+- Building projects at the intersection of **computer vision, machine learning and interactive software**
+- Drawn to systems work: I like knowing what's happening *under* the abstraction
+- I care about **testable, class-based design**: most of my projects ship with tests and a UML or architecture diagram
+- Comfortable on team projects: NeuroPedal was a collaboration where I owned the full ML pipeline
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎸 <a href="https://github.com/Quinnsmitth/NeuroPedal">NeuroPedal</a></h3>
+      <h3><a href="https://github.com/Quinnsmitth/NeuroPedal">NeuroPedal</a></h3>
       <p><b>Deep learning for guitar effects.</b> Listens to a guitar recording and predicts the pedal's <b>drive</b> and <b>tone</b> settings that produced it.</p>
       <ul>
         <li>Audio → mel spectrogram → single-channel <b>ResNet34</b> regression</li>
@@ -61,11 +61,11 @@ class Alec:
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>✋ <a href="https://github.com/akutsner/HandTrackingWordle">HandTrackingWordle</a></h3>
+      <h3><a href="https://github.com/akutsner/HandTrackingWordle">HandTrackingWordle</a></h3>
       <p><b>Wordle you play in the air.</b> A webcam tracks your hand in real time; your index finger becomes the cursor on an on-screen keyboard.</p>
       <ul>
         <li>Tracks <b>21 hand landmarks</b> per frame with MediaPipe</li>
-        <li>Gesture rules: ☝️ point to type, ✊ fist to clear</li>
+        <li>Gesture rules: point to type, make a fist to clear</li>
         <li>Frame-based debouncing for reliable key presses</li>
         <li>Built in steps: shape demo → virtual keyboard → full game</li>
       </ul>
@@ -76,7 +76,7 @@ class Alec:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚔️ <a href="https://github.com/akutsner/PokemonGame">PokemonGame</a></h3>
+      <h3><a href="https://github.com/akutsner/PokemonGame">PokemonGame</a></h3>
       <p><b>Flask web app and Pygame battle game</b> powered by live PokéAPI data.</p>
       <ul>
         <li>REST calls to PokéAPI for stats, types, species and items</li>
@@ -89,7 +89,7 @@ class Alec:
       <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🌀 <a href="https://github.com/akutsner/TurtleMaze">TurtleMaze</a></h3>
+      <h3><a href="https://github.com/akutsner/TurtleMaze">TurtleMaze</a></h3>
       <p><b>Maze generator and solver</b> drawn live with turtle graphics.</p>
       <ul>
         <li>Modified <b>depth-first search</b> with backtracking</li>
@@ -104,18 +104,18 @@ class Alec:
 </table>
 
 <details>
-<summary><b>➕ More projects</b></summary>
+<summary><b>More projects</b></summary>
 <br>
 
 | Project | Description |
 |---|---|
-| 🏛 [RomanNumeral](https://github.com/akutsner/RomanNumeral) | Two-way Roman numeral ↔ integer converter. Checks subtractive pairs and rejects malformed input, with a test script. |
+| [RomanNumeral](https://github.com/akutsner/RomanNumeral) | Two-way Roman numeral ↔ integer converter. Checks subtractive pairs and rejects malformed input, with a test script. |
 
 </details>
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,mysql&perline=7" alt="Languages"/>
@@ -135,7 +135,7 @@ class Alec:
 
 ---
 
-## 📈 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=akutsner&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
@@ -152,33 +152,28 @@ class Alec:
 
 ---
 
-## 🌱 Currently learning
+## Currently learning
 
 | Topic | Why |
 |---|---|
-| 🌐 **Computer networking** | How packets actually get from A to B, and what breaks along the way |
-| 🗄 **Relational databases & SQL** | Schema design, indexing and query performance |
-| 🟦 **TypeScript** | Type-safe front-end and tooling work |
-| 🤖 **LLMs** | How they work under the hood and how to build reliable tools on top of them |
+| **Computer networking** | How packets actually get from A to B, and what breaks along the way |
+| **Relational databases & SQL** | Schema design, indexing and query performance |
+| **TypeScript** | Type-safe front-end and tooling work |
+| **LLMs** | How they work under the hood and how to build reliable tools on top of them |
 
 ---
 
-## 🎯 What I'm looking for
+## What I'm looking for
 
 I'm looking for **new-grad, entry-level or internship roles** in **systems or software engineering**, especially teams that build performance-sensitive, dependable software. I'm happy to dig into unfamiliar codebases, debug the hard stuff and write the tests that keep it fixed.
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alec-kutsner-64001a397"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/akutsner"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<!-- The snake image appears once .github/workflows/snake.yml has run once (Actions tab → "Generate contribution snake" → Run workflow) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akutsner/akutsner/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 <p align="center">
