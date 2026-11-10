@@ -1,7 +1,5 @@
 <!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alec%20Kutsner&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Software%20Engineering%20%C2%B7%20CS%20%40%20Ithaca%20College&descAlignY=60&descSize=18" alt="Alec Kutsner banner" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/akutsner">
