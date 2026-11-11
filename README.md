@@ -133,17 +133,7 @@ class Alec:
 
 ---
 
-## GitHub stats
 
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akutsner&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-
-
----
 
 ## Currently learning
 
