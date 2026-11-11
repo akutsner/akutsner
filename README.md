@@ -25,12 +25,9 @@ class Alec:
         self.major     = "Computer Science"
         self.graduates = "May 2027"
         self.location  = "Ithaca, NY"
-        self.focus     = ["Systems Engineering", "Software Engineering"]
-        self.into      = ["real-time input", "data pipelines", "clean, testable design"]
+        self.focus     = ["Computer Networking", "Systems Engineering", "Software Engineering"]
         self.seeking   = "New-grad / entry-level & internship roles"
 
-    def philosophy(self):
-        return "Understand how the pieces fit together, then make them fast and dependable."
 ```
 
 - Building projects at the intersection of **computer vision, machine learning and interactive software**
